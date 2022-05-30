@@ -4,22 +4,3 @@ projects:
     assetId: notes
     version: 0.0.1
     apiVersion: v0
-  - main: node_modules/swagger-converter/test/output/complex-parameters.json
-    assetId: complex-parameters-test
-    version: 1.0.0
-    apiVersion: v1
-  - main: node_modules/swagger-converter/test/output/embedded.json
-    assetId: embedded
-    version: 1.0.0
-    apiVersion: v1
-  - main: node_modules/swagger-converter/test/output/minimal.json
-    assetId: title-was-not-specified
-    version: 1.0.0
-    apiVersion: v1
-  - main: node_modules/swagger-converter/test/output/petstore.json
-    assetId: swagger-sample-app
-    version: 1.0.0
-    apiVersion: v1
-    contact:
-      name: unknown
-      email: apiteam@wordnik.com
