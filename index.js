@@ -6,7 +6,7 @@ var cors = require('cors');
 var swaggerTools = require('swagger-tools');
 var jsyaml = require('js-yaml');
 var fs = require('fs');
-var serverPort = 8080;
+var serverPort = 8081;
 
 // swaggerRouter configuration
 var options = {
