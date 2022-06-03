@@ -3,7 +3,7 @@ swagger: "2.0"
 info:
   description: "Very simplistic API to handle notes.\n"
   version: "0.0.1"
-  title: "Notes"
+  title: "Insurance Notes"
 host: "localhost:8080"
 basePath: "/"
 schemes:
@@ -19,7 +19,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: "Get all notes"
+          description: "Get all the notes"
       x-swagger-router-controller: "Default"
     post:
       operationId: "postNote"
