@@ -19,7 +19,7 @@ paths:
       parameters: []
       responses:
         200:
-          description: "Get all the new notes"
+          description: "Get all the notes"
       x-swagger-router-controller: "Default"
     post:
       operationId: "postNote"
