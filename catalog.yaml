@@ -1,6 +1,6 @@
 #%Catalog Descriptor 1.0
 projects:
   - main: api/swagger.yaml
-    assetId: notes
+    assetId: insurance-notes
     version: 1.0.0
-    apiVersion: v0
+    apiVersion: v1
