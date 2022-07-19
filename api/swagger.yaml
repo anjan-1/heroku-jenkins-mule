@@ -4,10 +4,10 @@ info:
   description: "Very simplistic API to handle notes.\n"
   version: "1.0.0"
   title: "Media Notes"
-host: "localhost:8080"
+host: "heroku-jenkins-mule.herokuapp.com"
 basePath: "/"
 schemes:
-- "http"
+- "https"
 consumes:
 - "application/json"
 produces:

@@ -4,3 +4,7 @@ projects:
     assetId: media-notes
     version: 1.0.0
     apiVersion: v1
+    tags:
+      - governance
+    documentation:
+      Home: documentation/add.md
