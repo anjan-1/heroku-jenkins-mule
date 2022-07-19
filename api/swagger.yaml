@@ -13,14 +13,14 @@ consumes:
 produces:
 - "application/json"
 paths:
-  channels:
-    get:
-      operationId: "getAllChannels"
-      parameters: []
-      responses:
-        200:
-          description: "Get all channels"
-      x-swagger-router-controller: "Default"
+  # channels:
+  #   get:
+  #     operationId: "getAllChannels"
+  #     parameters: []
+  #     responses:
+  #       200:
+  #         description: "Get all channels"
+  #     x-swagger-router-controller: "Default"
   /notes:
     get:
       operationId: "getAllNotes"
